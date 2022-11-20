@@ -1,7 +1,7 @@
 # coding=utf-8
 #Date Revised    Revised by     Revision Note
 #--------------- -------------- --------------------------------------------------------------------
-# 20221120          xiaowen      初始版本
+# 20221120          xiaowen      sparksql->sparkDSL版code
 from pyspark.sql import SparkSession,Window
 from pyspark.sql import functions as F
 from pyspark.sql.functions import *
